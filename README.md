@@ -32,13 +32,13 @@
       
       --dont forget to link other pages to navigation bar--
 
-                      <a class="nav-link" href="file:///C:/Users/Owner/Desktop/BOOTCAMP/homework2/index.html">About <span class="sr-only">(current)</span></a>
+                      <a class="nav-link" href="index.html">About <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="file:///C:/Users/Owner/Desktop/BOOTCAMP/homework2/contact.html">Contact</a>
+                      <a class="nav-link" href="contact.html">Contact</a>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="file:///C:/Users/Owner/Desktop/BOOTCAMP/homework2/portfolio.html">Portfolio</a>
+                      <a class="nav-link" href="portfolio.html">Portfolio</a>
                     </li>
 
                     </ul>
@@ -58,19 +58,7 @@
                       <div class="col-lg-12">
                             <img src="images/20190926_000107.jpg" alt="Taylor" width="250" class="img-thumbnail">
                         <p>
-                            Hello Everyone and welcome to my page! I assumed the Bio would be the easiest part of
-                            this assignment, however I'm having flashbacks to all the writer's block I used to
-                            experience in previous classes and can't seem to find words to make sentences. I've
-                            spent the last 8 years overworking myself, traveling whenever possible, and waiting on
-                            some higher power to force me down the right path (whatever that is).
-            
-                            I am the middle child of 5. You are probably assuming that I was the typical
-                            "forgotten" child, and you are absolutely right! I didn't received the same level
-                            guidance and discipline as my ther siblings, but I don't think I turned out too bad.
-                            I've had to learn how to figure a lot of things out on my own, which helped me gain                                 independence, learning skills, and self motivation.
-
-                            My main study over the years has been foreign language, and coding definitely qualifies
-                            as a new foreign language to add to my list.
+                           Writing a bio about yourself can be stressfull if you think to much. Give yourself time for it
                         </p>
                       </div> 
                     </section>
@@ -87,6 +75,8 @@
         <footer>
             <p>Copyright ©</p>
         </footer>
+
+        --add javascript--
 
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
